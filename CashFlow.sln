@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlow.Infrastructure", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlow.Domain", "src\CashFlow.Domain\CashFlow.Domain.csproj", "{9E676A7D-5344-49FC-A8E9-DCDD4C574658}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validators.Tests", "tests\Validators.Tests\Validators.Tests.csproj", "{40AF3439-9FDA-4E75-99AA-694D2DF0A9C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTestUtilities", "tests\CommonTestUtilities\CommonTestUtilities.csproj", "{51913694-B7F8-41D0-ABAE-6043904C23C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +53,14 @@ Global
 		{9E676A7D-5344-49FC-A8E9-DCDD4C574658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E676A7D-5344-49FC-A8E9-DCDD4C574658}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E676A7D-5344-49FC-A8E9-DCDD4C574658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40AF3439-9FDA-4E75-99AA-694D2DF0A9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AF3439-9FDA-4E75-99AA-694D2DF0A9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AF3439-9FDA-4E75-99AA-694D2DF0A9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AF3439-9FDA-4E75-99AA-694D2DF0A9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51913694-B7F8-41D0-ABAE-6043904C23C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51913694-B7F8-41D0-ABAE-6043904C23C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51913694-B7F8-41D0-ABAE-6043904C23C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51913694-B7F8-41D0-ABAE-6043904C23C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,5 +72,7 @@ Global
 		{9BFD0D03-05E1-4C4E-A409-85C9BA0358A5} = {043919C4-EFE1-43D1-8465-49DF72AB8207}
 		{DC1BC965-CA5D-4A80-9D00-FD53DA503521} = {043919C4-EFE1-43D1-8465-49DF72AB8207}
 		{9E676A7D-5344-49FC-A8E9-DCDD4C574658} = {043919C4-EFE1-43D1-8465-49DF72AB8207}
+		{40AF3439-9FDA-4E75-99AA-694D2DF0A9C1} = {099BC805-6B9C-40DD-A6D6-1C1E804CE173}
+		{51913694-B7F8-41D0-ABAE-6043904C23C2} = {099BC805-6B9C-40DD-A6D6-1C1E804CE173}
 	EndGlobalSection
 EndGlobal
