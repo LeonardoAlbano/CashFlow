@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GcWzpk++dbw=",
+  "success": true,
+  "projectFilePath": "/Users/leonardoalbano/Documents/CashFlow/tests/CommonTestUtilities/CommonTestUtilities.csproj",
+  "expectedPackageFiles": [
+    "/Users/leonardoalbano/.nuget/packages/bogus/35.6.2/bogus.35.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
