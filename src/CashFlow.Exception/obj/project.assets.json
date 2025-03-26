@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Exception/CashFlow.Exception.csproj",
+      "projectUniqueName": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Exception/CashFlow.Exception.csproj",
       "projectName": "CashFlow.Exception",
-      "projectPath": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Exception/CashFlow.Exception.csproj",
+      "projectPath": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Exception/CashFlow.Exception.csproj",
       "packagesPath": "/Users/leonardoalbano/.nuget/packages/",
-      "outputPath": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Exception/obj/",
+      "outputPath": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Exception/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leonardoalbano/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nkuNsGkM3/0=",
+  "dgSpecHash": "dr2mF+7M62k=",
   "success": true,
-  "projectFilePath": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj",
+  "projectFilePath": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/leonardoalbano/.nuget/packages/microsoft.entityframeworkcore/8.0.14/microsoft.entityframeworkcore.8.0.14.nupkg.sha512",
     "/Users/leonardoalbano/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.14/microsoft.entityframeworkcore.abstractions.8.0.14.nupkg.sha512",

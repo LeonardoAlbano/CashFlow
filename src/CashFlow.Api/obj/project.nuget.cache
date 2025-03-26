@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UAKRRR5FSFs=",
+  "dgSpecHash": "yHXdd96j6UM=",
   "success": true,
-  "projectFilePath": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Api/CashFlow.Api.csproj",
+  "projectFilePath": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Api/CashFlow.Api.csproj",
   "expectedPackageFiles": [
     "/Users/leonardoalbano/.nuget/packages/fluentvalidation/12.0.0-preview1/fluentvalidation.12.0.0-preview1.nupkg.sha512",
     "/Users/leonardoalbano/.nuget/packages/microsoft.entityframeworkcore/8.0.14/microsoft.entityframeworkcore.8.0.14.nupkg.sha512",

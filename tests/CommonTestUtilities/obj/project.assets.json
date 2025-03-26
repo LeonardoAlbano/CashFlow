@@ -85,11 +85,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leonardoalbano/Documents/CashFlow/tests/CommonTestUtilities/CommonTestUtilities.csproj",
+      "projectUniqueName": "/Users/leonardoalbano/RiderProjects/CashFlow/tests/CommonTestUtilities/CommonTestUtilities.csproj",
       "projectName": "CommonTestUtilities",
-      "projectPath": "/Users/leonardoalbano/Documents/CashFlow/tests/CommonTestUtilities/CommonTestUtilities.csproj",
+      "projectPath": "/Users/leonardoalbano/RiderProjects/CashFlow/tests/CommonTestUtilities/CommonTestUtilities.csproj",
       "packagesPath": "/Users/leonardoalbano/.nuget/packages/",
-      "outputPath": "/Users/leonardoalbano/Documents/CashFlow/tests/CommonTestUtilities/obj/",
+      "outputPath": "/Users/leonardoalbano/RiderProjects/CashFlow/tests/CommonTestUtilities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leonardoalbano/.nuget/NuGet/NuGet.Config"
@@ -104,8 +104,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Communication/CashFlow.Communication.csproj": {
-              "projectPath": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Communication/CashFlow.Communication.csproj"
+            "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Communication/CashFlow.Communication.csproj": {
+              "projectPath": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Communication/CashFlow.Communication.csproj"
             }
           }
         }

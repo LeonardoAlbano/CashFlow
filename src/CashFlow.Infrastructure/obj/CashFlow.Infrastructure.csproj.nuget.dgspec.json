@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj": {}
+    "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj": {
+    "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj",
+        "projectUniqueName": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj",
         "projectName": "CashFlow.Domain",
-        "projectPath": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj",
+        "projectPath": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj",
         "packagesPath": "/Users/leonardoalbano/.nuget/packages/",
-        "outputPath": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Domain/obj/",
+        "outputPath": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leonardoalbano/.nuget/NuGet/NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj": {
+    "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj",
+        "projectUniqueName": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj",
         "projectName": "CashFlow.Infrastructure",
-        "projectPath": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj",
+        "projectPath": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj",
         "packagesPath": "/Users/leonardoalbano/.nuget/packages/",
-        "outputPath": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Infrastructure/obj/",
+        "outputPath": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leonardoalbano/.nuget/NuGet/NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj": {
-                "projectPath": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj"
+              "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj": {
+                "projectPath": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj"
               }
             }
           }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj",
+      "projectUniqueName": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj",
       "projectName": "CashFlow.Domain",
-      "projectPath": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj",
+      "projectPath": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj",
       "packagesPath": "/Users/leonardoalbano/.nuget/packages/",
-      "outputPath": "/Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Domain/obj/",
+      "outputPath": "/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leonardoalbano/.nuget/NuGet/NuGet.Config"
