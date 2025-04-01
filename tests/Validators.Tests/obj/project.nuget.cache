@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5/UbflsZbmg=",
+  "dgSpecHash": "JUAdvLvPCQc=",
   "success": true,
   "projectFilePath": "/Users/leonardoalbano/RiderProjects/CashFlow/tests/Validators.Tests/Validators.Tests.csproj",
   "expectedPackageFiles": [
+    "/Users/leonardoalbano/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/leonardoalbano/.nuget/packages/bogus/35.6.2/bogus.35.6.2.nupkg.sha512",
     "/Users/leonardoalbano/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/leonardoalbano/.nuget/packages/fluentassertions/7.2.0/fluentassertions.7.2.0.nupkg.sha512",
@@ -117,7 +118,9 @@
     "/Users/leonardoalbano/.nuget/packages/xunit.core/2.5.3/xunit.core.2.5.3.nupkg.sha512",
     "/Users/leonardoalbano/.nuget/packages/xunit.extensibility.core/2.5.3/xunit.extensibility.core.2.5.3.nupkg.sha512",
     "/Users/leonardoalbano/.nuget/packages/xunit.extensibility.execution/2.5.3/xunit.extensibility.execution.2.5.3.nupkg.sha512",
-    "/Users/leonardoalbano/.nuget/packages/xunit.runner.visualstudio/2.5.3/xunit.runner.visualstudio.2.5.3.nupkg.sha512"
+    "/Users/leonardoalbano/.nuget/packages/xunit.runner.visualstudio/2.5.3/xunit.runner.visualstudio.2.5.3.nupkg.sha512",
+    "/Users/leonardoalbano/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/leonardoalbano/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
   ],
   "logs": []
 }

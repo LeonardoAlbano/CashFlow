@@ -109,3 +109,7 @@
 /Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Api/obj/Debug/net8.0/CashFlow.Api.pdb
 /Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Api/obj/Debug/net8.0/CashFlow.Api.genruntimeconfig.cache
 /Users/leonardoalbano/Documents/CashFlow/src/CashFlow.Api/obj/Debug/net8.0/ref/CashFlow.Api.dll
+/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Api/bin/Debug/net8.0/CashFlow.Api.staticwebassets.endpoints.json
+/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Api/bin/Debug/net8.0/AutoMapper.dll
+/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Api/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/leonardoalbano/RiderProjects/CashFlow/src/CashFlow.Api/obj/Debug/net8.0/staticwebassets/msbuild.CashFlow.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
