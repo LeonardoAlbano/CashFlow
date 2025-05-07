@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JUAdvLvPCQc=",
+  "dgSpecHash": "ev8QJKAlm2k=",
   "success": true,
   "projectFilePath": "/Users/leonardoalbano/RiderProjects/CashFlow/tests/Validators.Tests/Validators.Tests.csproj",
   "expectedPackageFiles": [
@@ -119,8 +119,8 @@
     "/Users/leonardoalbano/.nuget/packages/xunit.extensibility.core/2.5.3/xunit.extensibility.core.2.5.3.nupkg.sha512",
     "/Users/leonardoalbano/.nuget/packages/xunit.extensibility.execution/2.5.3/xunit.extensibility.execution.2.5.3.nupkg.sha512",
     "/Users/leonardoalbano/.nuget/packages/xunit.runner.visualstudio/2.5.3/xunit.runner.visualstudio.2.5.3.nupkg.sha512",
-    "/Users/leonardoalbano/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
-    "/Users/leonardoalbano/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+    "/Users/leonardoalbano/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/leonardoalbano/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
   ],
   "logs": []
 }

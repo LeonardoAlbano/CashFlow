@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lEZ8yfUIIWw=",
+  "dgSpecHash": "VXtdA7Rg7CA=",
   "success": true,
   "projectFilePath": "/Users/leonardoalbano/RiderProjects/CashFlow/tests/CommonTestUtilities/CommonTestUtilities.csproj",
   "expectedPackageFiles": [
     "/Users/leonardoalbano/.nuget/packages/bogus/35.6.2/bogus.35.6.2.nupkg.sha512",
-    "/Users/leonardoalbano/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
-    "/Users/leonardoalbano/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+    "/Users/leonardoalbano/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/leonardoalbano/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
   ],
   "logs": []
 }
